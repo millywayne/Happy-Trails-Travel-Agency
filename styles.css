@@ -1,28 +1,30 @@
 h1{
-    color: #f7325e;
+    color: #f2325e;
     background-color: cornsilk;
+    border: darkgrey;
     padding-bottom: 4px;
     font-weight: bolder;
 }
 p{
-  color: #7dc410; 
+  color: #f7325e; 
   font-family: fantasy; 
   font-weight: bold;
 }
 .popular{
     width: 80%;
     height: 80%;
-    background-color: blanchedalmond;
+    background-color: rgb(235, 235, 139);
     font-family: fantasy;
     align-items: center;
-    
+    position: absolute;
 }
 .tropical{
 width: 80%;
 height: 100%;
+background-color: rgb(243, 211, 171);
 font-family: fantasy;
 font-weight: bold;
-
+align-items: center;
 }
 ul{
     font-style: italic;
@@ -38,19 +40,13 @@ ol{
     
 }
 div{
-    background-color: rgb(253, 224, 186);
+    background-color: cornsilk;
 }
-h3{
-    color: #f7325e;
+h3{color: darkblue;
 }
 h2{
     font-weight: bold;
-    color: #f7325e;
+    color: rgb(7, 48, 7);
     font-style: italic;
     font-family: fantasy;
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
